@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+"Este programa me computa la nota final de una materia"
+4
+1
+29
+"Ingrese la nota 1 valor 20%"
+5
+1
+2
+N1
+4
+1
+29
+"Ingrese la nota 2 valor 25%"
+5
+1
+2
+N2
+4
+1
+29
+"Ingrese la nota 3 valor 25%"
+5
+1
+2
+N3
+4
+1
+23
+"Ingrese la nota 4 30%"
+5
+1
+2
+N4
+7
+0
+1
+61
+N1<0 or N1>5 or N2<0 or N2>5 or N3<0 or N3>5 or N4<0 or N4>5 
+6
+1
+5
+Total
+31
+N1*0.20+N2*0.25+N3*0.25+N4*0.30
+4
+1
+38
+"Nota final del estudiante es: ",Total
+13
+4
+1
+69
+"Las notas del semestre no pueden ser menores que 0 ni mayores que 5"
+13
+1

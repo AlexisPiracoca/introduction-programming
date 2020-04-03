@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+144
+" Este programa fue creado por: Jhon Alexis y consiste en calcular el valor bruto y valor total de N productos. Ingrese el número de productos "
+5
+1
+2
+NP
+6
+3
+10
+valorbruto
+1
+0
+10
+valortotal
+1
+0
+3
+IVA
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+2
+NP
+1
+1
+1
+4
+1
+34
+" Ingrese el valor del producto " 
+5
+1
+5
+valor
+6
+1
+10
+valorbruto
+16
+valorbruto+valor
+10
+6
+2
+3
+IVA
+17
+valorbruto * 0.19
+11
+valortotal 
+16
+valorbruto + IVA
+4
+1
+88
+" El valor bruto es: ",valorbruto, " El IVA es: ",IVA ," El valor total es: ",valortotal
+1

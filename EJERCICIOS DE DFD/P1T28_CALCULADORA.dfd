@@ -1,0 +1,134 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+83
+" Este programa fue creado por: Jhon Alexis y consiste en simular una calculadora "
+6
+1
+6
+option
+1
+9
+9
+1
+9
+option!=0
+4
+1
+90
+" Escriba 1 para Suma 2 para Resta 3 para Multiplicación 4 para División y 0 para salir " 
+5
+1
+6
+option
+7
+0
+1
+8
+option=1
+7
+0
+1
+8
+option=2
+7
+0
+1
+8
+option=3
+7
+0
+1
+8
+option=4
+4
+1
+29
+" Esta opción es incorrecta "
+13
+4
+1
+33
+" División: ingrese dos números "
+5
+1
+5
+N1,N2
+6
+1
+8
+division
+5
+N1/N2
+4
+1
+29
+" El resultado es: ",division
+13
+13
+4
+1
+39
+" Multiplicación: ingrese dos números "
+5
+1
+5
+N1,N2
+6
+1
+14
+multiplicacion
+5
+N1*N2
+4
+1
+35
+" El resultado es: ",multiplicacion
+13
+13
+4
+1
+30
+" Resta: ingrese dos números "
+5
+1
+5
+N1,N2
+6
+1
+5
+resta
+5
+N1-N2
+4
+1
+26
+" El resultado es: ",resta
+13
+13
+4
+1
+30
+" Suma: ingrese dos números " 
+5
+1
+5
+N1,N2
+6
+1
+4
+suma
+5
+N1+N2
+4
+1
+25
+" El resultado es: ",suma
+13
+11
+1

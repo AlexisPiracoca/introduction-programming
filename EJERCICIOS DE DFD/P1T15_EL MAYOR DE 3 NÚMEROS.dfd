@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+91
+"Este programa fue creado por: Jhon Alexis y consiste en calcular el mayor de tres números"
+4
+1
+38
+"Ingrese el valor de los tres números"
+5
+1
+5
+A,B,C
+7
+0
+1
+11
+A=B and A=C
+7
+0
+1
+11
+A>B and A>C
+7
+0
+1
+11
+B>A and B>C
+4
+1
+17
+"El mayor es: ",C
+13
+4
+1
+17
+"El mayor es: ",B
+13
+13
+4
+1
+17
+"El mayor es: ",A
+13
+13
+4
+1
+25
+"Los números son iguales"
+13
+4
+1
+32
+"GRACIAS POR USAR ESTE PROGRAMA"
+1

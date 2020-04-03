@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+"Este progrma fue creado por: Jhon Alexis y se trata de hallar el volumen de un cilindro"
+4
+1
+24
+"Ingrese el radio en cm"
+5
+1
+5
+Radio
+4
+1
+22
+"Ingrese la altura cm"
+5
+1
+6
+Altura
+6
+1
+7
+Volumen
+29
+3.141592*(Radio*Radio)*Altura
+4
+1
+31
+"El volumen es ",Volumen," cm3"
+1

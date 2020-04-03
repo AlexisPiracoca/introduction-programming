@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+"Determinar que presión tiene según el índice de presoión sistólica"
+4
+1
+54
+"Ingresar el índice de presión sistólica del paciente"
+5
+1
+9
+sistólico
+7
+0
+1
+12
+sistólico<=0
+7
+0
+1
+12
+sistólico<64
+7
+0
+1
+14
+sistólico<=120
+7
+0
+1
+14
+sistólico<=139
+7
+0
+1
+14
+sistólico<=159
+4
+1
+18
+"Se esta muriendo"
+13
+4
+1
+35
+"El paciente sufre de hipertensión"
+13
+13
+4
+1
+38
+"El paciente sufre de prehipertensión"
+13
+13
+4
+1
+47
+"El paciente tiene una presión arterial normal"
+13
+13
+4
+1
+34
+"El paciente sufre de hipotensión"
+13
+13
+4
+1
+50
+"ERROR la presión debe tener un valor mayor que 0"
+13
+1

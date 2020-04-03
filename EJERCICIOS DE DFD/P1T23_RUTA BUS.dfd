@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+198
+" Este programa fue creado por: Jhon Alexis y consiste en que simula la ruta de un autobús y determina cuantos pasajeros fueron transportados y cuánto dinero se ganó -Ingrese el número de paradas " 
+5
+1
+2
+NP
+6
+2
+6
+totalp
+1
+0
+9
+ganancias
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+2
+NP
+1
+1
+1
+4
+1
+34
+" Ingrese el número de pasajeros "
+5
+1
+1
+P
+6
+1
+6
+totalp
+9
+totalp+P 
+10
+4
+1
+57
+" El total de pasajeros transportados fueron ",tpasajeros
+1

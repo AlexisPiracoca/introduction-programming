@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+91
+"Este programa fue creado por: Jhon Alexi y consiste en calcular el salario de un empleado"
+4
+1
+58
+"Ingrese el sueldo del empleado con el que fue contratado"
+5
+1
+6
+SUELDO
+4
+1
+39
+"Ingrese el número de dias que trabajo"
+5
+1
+4
+DIAS
+7
+0
+1
+29
+SUELDO<0 OR DIAS<0 OR DIAS>30
+6
+1
+8
+Salario 
+16
+(SUELDO/30)*DIAS
+4
+1
+52
+"El salario del empleado en el mes es de: ", SALARIO
+13
+4
+1
+74
+"ERROR: el sueldo no puede ser inferior a 0 y dias deben ser entre 1 y 30"
+13
+1

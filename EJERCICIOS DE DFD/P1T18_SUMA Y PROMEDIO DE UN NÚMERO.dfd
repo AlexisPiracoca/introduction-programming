@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+" Este programa fue creado por: Jhon Alexis y consiste en sumar y promediar notas"
+5
+1
+1
+N
+6
+2
+4
+suma
+1
+0
+8
+promedio
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+4
+1
+45
+" Por favor ingrese el valor del número: ", i
+5
+1
+6
+numero
+6
+1
+4
+suma
+11
+suma+numero
+10
+6
+1
+8
+promedio
+6
+suma/N
+4
+1
+21
+" La suma es: ", suma
+4
+1
+29
+" El promedio es: ", promedio
+1

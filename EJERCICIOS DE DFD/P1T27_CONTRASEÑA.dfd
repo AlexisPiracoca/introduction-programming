@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+" Este programa fue creado por: Jhon Alexis y simula un login de una aplicación-Ingrese su password "
+5
+1
+1
+P
+6
+1
+8
+attempts
+1
+1
+9
+1
+44
+P!=352 and P!=259 and P!=569 and attempts<=3
+4
+1
+55
+" Usted ingreso mal su contraseña vuelva a ingresarla "
+5
+1
+1
+P
+6
+1
+8
+attempts
+10
+attempts+1
+11
+7
+0
+1
+10
+attempts=4
+4
+1
+25
+" Bienvenido al sistema "
+13
+4
+1
+29
+" Su usuario sera bloqueado "
+13
+1

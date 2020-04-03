@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+96
+"Este programa fue creado por: Jhon Alexis y consiste en que define si un número es par o impar"
+4
+1
+19
+"Ingrese el número"
+5
+1
+3
+NUM
+6
+1
+8
+residuo 
+9
+NUM MOD 2
+7
+0
+1
+9
+residuo=0
+4
+1
+28
+"El número ",NUM," es impar"
+13
+4
+1
+26
+"El número ",NUM," es par"
+13
+1

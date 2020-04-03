@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+"este programa permite identificar el valor de 4 productos"
+4
+1
+38
+"ingrese el valor del primer producto"
+5
+1
+2
+P1
+4
+1
+40
+"Iingrese el valor del segundo producto"
+5
+1
+2
+P2
+4
+1
+39
+"Iingrese el valor del tercer producto"
+5
+1
+2
+P3
+4
+1
+39
+"Iingrese el valor del tercer producto"
+5
+1
+2
+P4
+6
+3
+10
+totalbruto
+14
+P1+P2+P3+P3+P4
+3
+IVA
+15
+totalbruto*0.19
+5
+total
+14
+totalbruto+IVA
+4
+1
+93
+"la factura es total bruto:", totalbruto," el valor del IVA:",IVA," el valor total es:",total
+1
