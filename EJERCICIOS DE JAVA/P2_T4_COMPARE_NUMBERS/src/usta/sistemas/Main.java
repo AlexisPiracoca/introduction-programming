@@ -28,8 +28,7 @@ public class Main {
         System.out.println("||---------SoftAreaFigures------||");
         System.out.println("||----Version 1.0 2020-04-14----||");
         System.out.println("||---Created by: Jhon Alexis----||");
-        System.out.println("  ==============================  ");
-        System.out.println("Input the option of the figure: \n1-circle\n2-square\n3-triangle");
+        System.out.println("  ==============================  ")
     }
 
     public static boolean f_compare() {
