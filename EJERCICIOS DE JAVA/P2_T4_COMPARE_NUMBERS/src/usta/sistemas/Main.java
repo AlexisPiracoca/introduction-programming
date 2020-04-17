@@ -24,11 +24,11 @@ public class Main {
 
     public static void f_menu() {
         //Description: this method show the menu of this software
-        System.out.println("  ==============================  ");
-        System.out.println("||---------SoftAreaFigures------||");
-        System.out.println("||----Version 1.0 2020-04-14----||");
-        System.out.println("||---Created by: Jhon Alexis----||");
-        System.out.println("  ==============================  ")
+        System.out.println("  ===============================  ");
+        System.out.println("||---------SoftAreaFigures-------||");
+        System.out.println("||----Version 1.0 2020-04-14-----||");
+        System.out.println("||---Created by: Jhon Alexis-----||");
+        System.out.println("  ===============================  ")
     }
 
     public static boolean f_compare() {
