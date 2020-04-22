@@ -18,11 +18,11 @@ public class Main {
     }
     public static void f_menu(){
         //Description: this method show the menu of this software
-        System.out.println("╔═══════════════════════════════════╗");
-        System.out.println("║          SoftAverageHeight        ║");
-        System.out.println("║        Version 1.0 2020-04-20       ║");
-        System.out.println("║       Created by: Jhon Alexis     ║");
-        System.out.println("╚═══════════════════════════════════╝");
+        System.out.println("╔════════════════════════════════════╗");
+        System.out.println("║          SoftAverageHeight         ║");
+        System.out.println("║        Version 1.0 2020-04-20      ║");
+        System.out.println("║       Created by: Jhon Alexis      ║");
+        System.out.println("╚════════════════════════════════════╝");
 
     }
     public static int f_total_children(){
